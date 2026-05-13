@@ -3,8 +3,6 @@
 > **Plataforma digital tipo "Uber de Oficios"** que conecta a clientes con técnicos y profesionales independientes para servicios de reparación, mantenimiento y asistencia en el hogar.
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square)](https://github.com)
-[![Fecha de Entrega](https://img.shields.io/badge/Entrega-10%20de%20Junio%202026-red?style=flat-square)](https://github.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-enabled-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-brightgreen?style=flat-square)](https://mern.io/)
 
 ---
